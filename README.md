@@ -1,4 +1,4 @@
-# PreeForCourseraDataSci
+# IBMDataSci-Pree
 
 This folder is a part of my study in IBM Data Science Professional Certificate in Coursera during May - Aug 2023
 
